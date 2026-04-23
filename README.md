@@ -9,6 +9,11 @@
 This project analyzes how chemical properties influence wine quality using SQL and Python.
 The objective is to identify key factors that determine wine quality and support better production decisions through data.
 
+## Project Presentation
+
+Project presentation (Canva):  
+[View Project Presentation](https://canva.link/5964pcnnk41nb93)
+
 ---
 
 ## Business Problem
